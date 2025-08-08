@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Password Frustrator</title>
+  <style>
+    body {
+      font-family: Comic Sans MS, cursive, sans-serif;
+      background: #ffe792;
+      text-align: center;
+      margin-top: 60px;
+    }
+    #container {
+      display: inline-block;
+      background: #fff3c7;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px #f8c07060;
+      max-width: 400px;
+    }
+    input[type="password"] {
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid #c4a940;
+      margin-bottom: 12px;
+      font-size: 1.2em;
+      width: 80%;
+      box-sizing: border-box;
+    }
+    button {
+      padding: 8px 16px;
+      font-size: 1.1em;
+      border-radius: 6px;
+      border: none;
+      background: #ffd366;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+    #rule, #feedback, #haiku {
+      margin-top: 18px;
+      font-size: 1.02em;
+    }
+    #haiku {
+      font-style: italic;
+      color: #ba7600;
+      margin-top: 10px;
+      white-space: pre-line;
+      min-height: 3em;
+    }
+    #gif {
+      margin-top: 20px;
+      display: none; /* Hidden until needed */
+    }
+    #funnyGif {
+      max-width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1>Password Frustrator 😈</h1>
+    <input id="password" type="password" placeholder="Enter password" autocomplete="off" />
+    <button onclick="tryLogin()">Log in</button>
+    <div id="rule"></div>
+    <div id="feedback"></div>
+    <div id="haiku"></div>
+    <div id="gif">
+      <img id="funnyGif" src="" alt="Funny GIF" />
+    </div>
+  </div>
+
+  <!-- Background music -->
+  <audio id="backgroundMusic" src="https://actions.google.com/sounds/v1/ambiences/funny_game_show.ogg" autoplay loop></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
