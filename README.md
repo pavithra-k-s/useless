@@ -48,47 +48,19 @@ For Software:
 <img width="1915" height="1062" alt="Image" src="https://github.com/user-attachments/assets/b29bb8f9-ef69-4a54-8281-2a62de3dda6f" />
 *This shows the landing page of the project *
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1c53c507-0b1e-484c-92a0-f7ffd5654867" />
+*This shows the validation page*
 
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/14213365-6b8d-4f82-9117-0ead75035fe7" />
+*This shows the ending page*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1LMh__IhNGVGKos_eCkl8uW3Ed9yTxnM2/view?usp=sharing
+*Demo of the project*
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Pavithra K S: I did all the work unfortunately. 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
