@@ -45,10 +45,10 @@ Fire up your favorite modern web browser — Chrome, Firefox, Edge, Safari, what
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1915" height="1062" alt="Image" src="https://github.com/user-attachments/assets/b29bb8f9-ef69-4a54-8281-2a62de3dda6f" />
+*This shows the landing page of the project *
 
-![Screenshot2](Add screenshot 2 here with proper name)
+
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
